@@ -1,5 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Neslihan  
+# 🔭 AI-focused Software Developer | 42 Student
+# 🎓 42 Kocaeli Student  
 
+# Tech Stack
+
+**Languages & Frameworks**
+- Python, C/C++, JavaScript
+- Numpy, Pandas, TensorFlow  
+
+**Tools & Platforms**
+- Docker, Git   
+- Linux
+- Figma
+
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/neslihandgn)
+- ✉️ Email: doganneslihan84@gmail.com  
 <!--
 **neslihand/neslihand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
