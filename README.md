@@ -2,7 +2,7 @@
 ### 🔭 AI-focused Software Developer | 42 Student
 ### 🎓 42 Kocaeli Student  
 
-# Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 - Python, C/C++, JavaScript
@@ -14,7 +14,7 @@
 - Figma
 
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/neslihandgn)
 - ✉️ Email: doganneslihan84@gmail.com  
