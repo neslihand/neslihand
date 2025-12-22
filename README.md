@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Neslihan  
 ### 🔭 AI-focused Software Developer
-### 🎓 42 Kocaeli Student  
+### 🎓 42 Türkiye Student  
 
 ## Tech Stack
 
